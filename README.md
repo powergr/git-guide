@@ -11,6 +11,6 @@ This guide is for beginners to advanced users.
 
 🛠 You are free to contribute.
 
-This file is free for everyone. 📄 No license.
+This file is free for everyone. 📄 [MIT license](LICENSE.md).
 
 ## Made with ❤️ for Open Source Projects
