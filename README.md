@@ -3,7 +3,7 @@
 Do you ever wonder what each Git coomand is?
 This guide is for beginners to advanced users.
 
-![git-commands-guide](git-guide.webp)
+[git-commands-guide](git-guide.webp)
 
 ✅ Read the guide here (git-guide.md)
 
@@ -12,3 +12,5 @@ This guide is for beginners to advanced users.
 🛠 You are free to contribute.
 
 This file is free for everyone. 📄 No license.
+
+## Made with ❤️ for Open Source Projects
